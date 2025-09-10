@@ -1,10 +1,3 @@
-# 文件信息
-
-- 原始文件：README.md
-- 翻译时间：2025/09/10 13:41:36
-
----
-
 <div align="center">
     <img src="./media/logo_small.webp"/>
     <h1>🌱 Spec Kit</h1>
@@ -312,6 +305,8 @@ Claude Code会立即开始执行，实现你的方案。
 >Claude Code会在本地执行CLI命令（如 `dotnet`），请确保你的电脑已安装相关工具。
 
 实现完成后，让Claude Code尝试运行应用，并解决可能出现的构建错误。如果应用能运行，但出现了Claude Code无法直接通过CLI日志获取的运行时错误（比如浏览器日志中的报错），可以将错误信息复制粘贴给Claude Code，让它帮你排查。
+
+</details>
 
 ---
 
